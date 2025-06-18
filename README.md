@@ -1,4 +1,4 @@
-![App screenshoot](https://github.com/superXdev/mytestimonial/blob/main/public/ss.png?raw=true)
+![App screenshoot](https://github.com/andi-nugroho/mytestimonial/blob/main/public/Macbook-Air-MyTestimoni.png?raw=true)
 
 # myTestimonial
 
@@ -10,7 +10,7 @@ https://github.com/superXdev/myTestimonial-backend
 ### 2. Setting up the backend according to the instructions provided.
 ### 3. Clone this repository
 ```sh
-git clone https://github.com/superXdev/mytestimonial.git
+git clone https://github.com/andi-nugroho/mytestimonial.git
 ```
 ### 4. Install dependencies
 ```sh
