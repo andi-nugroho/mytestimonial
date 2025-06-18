@@ -6,7 +6,7 @@ A simple website to present testimonials from certain clients or people as a pro
 
 ## Setup
 ### 1. First you need to clone this repo for the backend 
-https://github.com/superXdev/myTestimonial-backend
+https://github.com/andi-nugroho/myTestimonial-backend
 ### 2. Setting up the backend according to the instructions provided.
 ### 3. Clone this repository
 ```sh
